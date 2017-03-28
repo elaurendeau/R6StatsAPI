@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/elaurendeau/R6TeamViewer/core/domain"
+	"github.com/elaurendeau/R6StatsAPI/domain"
 )
 
 //HttpHandler is the http interface used to get or post data

@@ -2,8 +2,8 @@ package interfaces
 
 import (
 	"sync"
-	"github.com/elaurendeau/R6TeamViewer/core/usecases"
-	"github.com/elaurendeau/R6TeamViewer/core/domain"
+	"github.com/elaurendeau/R6StatsAPI/usecases"
+	"github.com/elaurendeau/R6StatsAPI/domain"
 )
 
 type HttpContent struct {

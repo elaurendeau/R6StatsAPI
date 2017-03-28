@@ -3,7 +3,7 @@ package usecases
 import (
 	"fmt"
 	"sync"
-	"github.com/elaurendeau/R6TeamViewer/core/domain"
+	"github.com/elaurendeau/R6StatsAPI/domain"
 )
 
 //Logger interface for a simple logger

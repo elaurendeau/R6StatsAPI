@@ -4,7 +4,7 @@ import (
 	"io/ioutil"
 	"net/http"
 	"time"
-	"github.com/elaurendeau/R6TeamViewer/core/interfaces"
+	"github.com/elaurendeau/R6StatsAPI/interfaces"
 )
 
 //HttpHandler is a struct used to handle http requests

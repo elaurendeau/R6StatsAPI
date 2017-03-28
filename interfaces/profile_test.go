@@ -6,7 +6,7 @@ import (
 	"github.com/stretchr/testify/mock"
 	"reflect"
 	"testing"
-	"github.com/elaurendeau/R6TeamViewer/core/domain"
+	"github.com/elaurendeau/R6StatsAPI/domain"
 )
 
 type MockedProfileInteractor struct {

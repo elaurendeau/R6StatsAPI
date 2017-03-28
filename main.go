@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 	"time"
-	"github.com/elaurendeau/R6TeamViewer/core/infrastructure"
-	"github.com/elaurendeau/R6TeamViewer/core/interfaces"
-	"github.com/elaurendeau/R6TeamViewer/core/usecases"
+	"github.com/elaurendeau/R6StatsAPI/interfaces"
+	"github.com/elaurendeau/R6StatsAPI/usecases"
+	"github.com/elaurendeau/R6StatsAPI/infrastructure"
 )
 
 func main() {

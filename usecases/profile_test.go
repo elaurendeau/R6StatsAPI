@@ -9,7 +9,7 @@ import (
 	"reflect"
 	"strings"
 	"testing"
-	"github.com/elaurendeau/R6TeamViewer/core/domain"
+	"github.com/elaurendeau/R6StatsAPI/domain"
 )
 
 type MockedLogger struct {
